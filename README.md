@@ -1,6 +1,8 @@
 # SmartHomeIoT
 Smart Home System with ESP32 and Secure MQTT Integration
-**Overview:**
+
+
+# **Overview:**
 This project implements a smart home environment using the ESP32 microcontroller. It integrates multiple modules to provide automation, monitoring, control, and secure cloud connectivity. Key functionalities include:
 
 - **Wi-Fi and Secure MQTT Integration**: Uses HiveMQ Cloud as the MQTT broker with TLS encryption for secure communication.
