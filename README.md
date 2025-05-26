@@ -37,3 +37,5 @@ This project implements a smart home environment using the ESP32 microcontroller
 
 - IRremoteESP8266 for IR remote handling
 
+**Wiring diagram**
+![image](https://github.com/user-attachments/assets/9d32559f-37fa-400c-99b3-58c323e42b71)
